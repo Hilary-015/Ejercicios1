@@ -1,0 +1,17 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+
+--Hilary Calva
+
+entity circuito1 is
+    Port ( A, B : in  STD_LOGIC;
+           C : out  STD_LOGIC);
+end circuito1;
+
+architecture Behavioral of circuito1 is
+
+begin
+
+
+end Behavioral;
