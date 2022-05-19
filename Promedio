@@ -1,0 +1,17 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+
+--Hilary Calva
+entity Promedio is
+    Port ( A : in  BIT_VECTOR (0 to 3);
+           B : in  BIT_VECTOR (0 to 3);
+           C : out  BIT_VECTOR (0 to 3));
+end Promedio;
+
+architecture Behavioral of Promedio is
+
+begin
+
+
+end Behavioral;
