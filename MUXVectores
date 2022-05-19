@@ -1,0 +1,16 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+--Hilary Calva
+entity MUXVectores is
+    Port ( E : in  BIT_VECTOR (0 to 3);
+           S : in  BIT_VECTOR (0 to 1);
+           F : out  STD_LOGIC);
+end MUXVectores;
+
+architecture Behavioral of MUXVectores is
+
+begin
+
+
+end Behavioral;
